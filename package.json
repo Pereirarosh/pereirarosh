@@ -1,0 +1,7 @@
+{
+  "name": "prprotec",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {"build":"node build.mjs","preview":"node preview.mjs"},
+  "engines": {"node": "24.x"}
+}
